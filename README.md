@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hit the URL - 
+1. /api/v1/numapi/42 to get the expected output.
+   ![image](https://github.com/aniket1418/demo_api/assets/36506092/93bc7137-698f-4876-aa07-75d2aa958120)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
