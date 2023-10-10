@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: demoapi
+    runtime: ruby
+    buildCommand: "./bin/render-build.sh"
+    startCommand: "rails s"
